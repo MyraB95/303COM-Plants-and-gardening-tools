@@ -1,0 +1,7 @@
+{
+    "name": "myra/plants-and-gardening-tools",
+    "require": {
+        "php": "^8.2.4",
+        "phpmailer/phpmailer": "^6.8"
+    }
+}
